@@ -7,9 +7,13 @@
     "start": "node -r esm index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "esm": "^3.2.16"
-  }
+  },
+  "gitHead": "e0bd2ee704e279d7546d8180a3ac04cc3b9b2d1f"
 }

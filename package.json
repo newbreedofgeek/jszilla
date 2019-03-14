@@ -1,0 +1,23 @@
+{
+  "name": "jszilla",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A collections of javascript utilities for cleaner and reusable code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newbreedofgeek/jszilla.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newbreedofgeek/jszilla/issues"
+  },
+  "homepage": "https://github.com/newbreedofgeek/jszilla#readme",
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  }
+}
