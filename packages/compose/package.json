@@ -1,0 +1,15 @@
+{
+  "name": "@jszilla/compose",
+  "version": "1.0.0",
+  "description": "componse multiple functions together",
+  "main": "main.js",
+  "scripts": {
+    "start": "node -r esm index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esm": "^3.2.16"
+  }
+}
