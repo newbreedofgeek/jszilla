@@ -1,6 +1,6 @@
 {
   "name": "@jszilla/compose",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "componse multiple functions together",
   "main": "main.js",
   "scripts": {
